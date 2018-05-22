@@ -1,0 +1,12 @@
+*.o
+main
+bench
+tags
+.ycm_extra_conf.py
+.deps
+libhsrv.a
+libhsrv.pc
+header.gperf
+header.gperf.c
+header.h
+config.mk

@@ -1,0 +1,13 @@
+autogen definitions header;
+
+header = { id = "Host"; };
+header = { id = "Cookie"; };
+header = { id = "User-Agent"; };
+header = { id = "Referer"; };
+header = { id = "Content-Type"; };
+header = { id = "X-Req-Id"; internal; };
+header = { id = "Range"; };
+header = { id = "Content-Length"; internal; };
+header = { id = "Transfer-Encoding"; internal; };
+header = { id = "Connection"; internal; };
+header = { id = "Expect"; internal; };
